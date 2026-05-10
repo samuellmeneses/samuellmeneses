@@ -1,5 +1,5 @@
 <div align="center width="100%">
-<img src="banner .svg">
+<img src="githubanner.png">
 </div>
 
 <div align="center">
