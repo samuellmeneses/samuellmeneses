@@ -1,4 +1,5 @@
-![banner](githubanner.png)
+![banner](<img width="307" height="300" alt="logo2" src="https://github.com/user-attachments/assets/472dbb4c-cc26-47db-82d7-1e6706275813" />
+)
 
 ## Sobre mim
 
@@ -13,4 +14,4 @@ Olá! Sou **Samuel Meneses**, Desenvolvedor em [Cyber Security].
 
 ## Estatísticas
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true)](https://github.com/SEU-USUARIO)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellmeneses&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true)](https://github.com/samuellmeneses)
