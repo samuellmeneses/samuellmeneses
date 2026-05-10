@@ -1,5 +1,7 @@
 <div align="center width="100%">
+  
 <img src="banner.svg">
+
 </div>
 
 <div align="center">
@@ -19,19 +21,15 @@ Student of Systems Analysis and Development · Future Developer
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458)
 
 </div>
 
 ---
 
-## 📊 Statistic
+## 📊 Statistics
 
 <div align="center">
 
