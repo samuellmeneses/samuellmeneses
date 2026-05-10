@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Samuel Meneses!
+# Samuel Meneses
 
-**Estudante de ADS · Entusiasta de Tecnologia · Futuro Dev**
+** Student of Systems Analysis and Development · Future Developer **
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Estudante+de+An%C3%A1lise+e+Desenv.+de+Sistemas;Aprendendo+JavaScript%2C+Java+e+Python;Apaixonado+por+tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -10,11 +10,9 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 🌱 Atualmente aprendendo **JavaScript, Java, Python, SQL e Git**
-- 🎯 Objetivo: me tornar um desenvolvedor completo
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 💡 Gosto de resolver problemas e aprender tecnologias novas
 - 🤝 Aberto a colaborar em projetos de estudo e iniciantes
 
@@ -39,11 +37,11 @@
 
 <div align="center">
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=ffffff)
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuellmeneses-AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuellmeneses-AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-AQUI&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/SEU-USUARIO-AQUI)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellmeneses&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true)](https://github.com/samuellmeneses)
 
 </div>
 
@@ -59,8 +57,6 @@
 2025 - Explorando JavaScript e Python 💻
      - Estudando banco de dados SQL
      - Praticando Java orientado a objetos
-
-Em andamento... 🔥
 ```
 
 ---
@@ -69,8 +65,8 @@ Em andamento... 🔥
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/samuel-m-0336ab381/))
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samuzxj)
 
 </div>
 
@@ -78,17 +74,7 @@ Em andamento... 🔥
 
 <div align="center">
 
-⭐ *"Todo especialista já foi um dia um iniciante."* ⭐
-
 ![Visitor Badge](https://visitor-badge.liteflare.com/badge?page_id=SEU-USUARIO-AQUI)
 
 </div>
 
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-
-## Estatísticas
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellmeneses&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true)](https://github.com/samuellmeneses)
