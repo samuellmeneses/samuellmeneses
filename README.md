@@ -1,16 +1,16 @@
-## Hi there 👋
+![banner](githubanner.png)
 
-<!--
-**samuellmeneses/samuellmeneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+![avatar](avatar.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Sou **Samuel Meneses**, Desenvolvedor em [Cyber Security].
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+## Estatísticas
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true)](https://github.com/SEU-USUARIO)
