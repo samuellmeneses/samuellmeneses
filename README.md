@@ -1,4 +1,7 @@
-![banner](banner.svg)
+<img src="banner.svg" width="100%"/>
+<div align="center">
+Mostrar Imagem
+</div>
 
 <div align="center">
 
