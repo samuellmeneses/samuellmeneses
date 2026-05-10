@@ -54,7 +54,7 @@
   <rect x="0" y="145" width="860" height="12" fill="#aabbcc" opacity="0.05" filter="url(#blur1)"/>
 
   <!-- Main text -->
-  <text x="430" y="95" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="normal" fill="#e8e8e8" text-anchor="middle" letter-spacing="8" opacity="0.95">WELCOME TO SAMUEL'S</text>
+  <text x="430" y="95" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="normal" fill="#e8e8e8" text-anchor="middle" letter-spacing="8" opacity="0.95">WELCOME TO SAMUEL MENESES</text>
   <text x="430" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="normal" fill="#e8e8e8" text-anchor="middle" letter-spacing="8" opacity="0.95">GITHUB</text>
 
   <!-- Thin decorative line below text -->
