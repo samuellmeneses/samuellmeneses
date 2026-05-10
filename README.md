@@ -2,10 +2,6 @@
   
 <img src="banner.svg">
 
-</div>
-
-<div align="center">
-
 Student of Systems Analysis and Development · Future Developer
 
 [![Linktree](https://img.shields.io/badge/LINKTREE-000000?style=for-the-badge&logo=linktree&logoColor=43E55E)](https://linktr.ee/samuellmeneses)
