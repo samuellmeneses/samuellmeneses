@@ -4,7 +4,7 @@
 
 <div align="center">
   
-Student of Systems Analysis and Development · Future Developer
+Student of Systems Analysis and Development · Future Developer · Future AI Specialist
 
 [![Linktree](https://img.shields.io/badge/LINKTREE-000000?style=for-the-badge&logo=linktree&logoColor=43E55E)](https://linktr.ee/samuellmeneses)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuellmeneses)
@@ -18,7 +18,6 @@ Student of Systems Analysis and Development · Future Developer
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
