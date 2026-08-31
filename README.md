@@ -32,5 +32,3 @@ Student of Systems Analysis and Development · Future Developer · Future AI Spe
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellmeneses)
 
 </div>
-
-</div>
