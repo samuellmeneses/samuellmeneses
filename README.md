@@ -27,6 +27,8 @@ Student of Systems Analysis and Development · Future Developer · Future AI Spe
 
 ## 📊 Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuellmeneses&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellmeneses)
+
+</div>
