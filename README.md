@@ -28,5 +28,5 @@ Student of Systems Analysis and Development · Future Developer · Future AI Spe
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuellmeneses&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuellmeneses&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
