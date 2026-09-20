@@ -27,6 +27,6 @@ Student of Systems Analysis and Development · Future Developer · Future AI Spe
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuellmeneses&show_icons=true&theme=dark)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=samuellmeneses&theme=dark)
 
 </div>
